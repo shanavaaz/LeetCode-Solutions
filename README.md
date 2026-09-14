@@ -11,4 +11,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+## Greedy
+|  |
+| ------- |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 <!---LeetCode Topics End-->
