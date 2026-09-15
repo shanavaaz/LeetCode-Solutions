@@ -19,4 +19,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
