@@ -7,6 +7,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -25,6 +26,7 @@ My LeetCode solutions
 | ------- |
 | [0001-two-sum](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
