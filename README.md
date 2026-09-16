@@ -13,6 +13,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -32,9 +33,34 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
