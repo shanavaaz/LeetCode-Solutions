@@ -12,6 +12,7 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -30,16 +31,19 @@ My LeetCode solutions
 | [0001-two-sum](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
