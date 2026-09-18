@@ -12,6 +12,7 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
