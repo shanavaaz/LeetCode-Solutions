@@ -17,6 +17,7 @@ My LeetCode solutions
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ My LeetCode solutions
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +77,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
