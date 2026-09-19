@@ -23,6 +23,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My LeetCode solutions
 | [0027-remove-element](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,11 +47,13 @@ My LeetCode solutions
 | [0205-isomorphic-strings](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +86,16 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
