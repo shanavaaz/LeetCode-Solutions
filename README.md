@@ -14,6 +14,7 @@ My LeetCode solutions
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -23,6 +24,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Greedy
@@ -42,6 +44,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
