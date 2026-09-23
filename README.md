@@ -21,6 +21,7 @@ My LeetCode solutions
 | [0205-isomorphic-strings](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ My LeetCode solutions
 | [0027-remove-element](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
@@ -86,6 +88,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 ## Counting
 |  |
 | ------- |
@@ -102,4 +105,28 @@ My LeetCode solutions
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
