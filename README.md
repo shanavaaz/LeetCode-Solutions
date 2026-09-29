@@ -26,6 +26,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Greedy
@@ -64,6 +65,7 @@ My LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/shanavaaz/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
